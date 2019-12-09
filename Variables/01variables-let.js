@@ -24,6 +24,6 @@ console.log(letVariable);
 
 /**
  * place your code here
- * Expectations: write a code snippet which creates four variables and prints them
+ * Expectations: write a code snippet which creates four variables using the keyword "let" and prints them
  * to the console
  */
