@@ -1,0 +1,13 @@
+atom-beautify
+file-icons
+highlight-selected
+atom-ternjs (requires dependencies)
+autoclose-html
+autocomplete-modules
+docblockr
+js-hyperclick
+
+
+Terminal command to install all of these packages:
+
+apm install atom-beautify file-icons highlight-selected atom-ternjs autoclose-html autocomplete-modules docblockr js-hyperclick
