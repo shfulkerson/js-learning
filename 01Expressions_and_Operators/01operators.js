@@ -52,3 +52,21 @@ let word2 = "Jolly";
 let word3 = "Christmas"
 let phrase = word1 + " " + word2 + " " + word3
 console.log(phrase);
+
+/**
+ * ********************Logical (True/False) Operator(s)***********************
+ */
+//Logical operators are comparison operators similar to inequalities in algebra
+
+let x = (5 > 2);
+console.log("5>2? " + x);
+x = (5 <= 2);
+console.log("5 < or = 2? " + x);
+x = (6 === 6);
+console.log("6 === 6? " + x);
+x = (6 === '6');
+console.log("6 === '6'? " + x);
+x = (6 == 6);
+console.log("6 == 6? " + x);
+x = (6 == '6');
+console.log("6 == '6'? " + x);
