@@ -39,3 +39,16 @@ remainder = 14 % 4;
 console.log("The remainder of 14 / 4 is " + remainder);
 remainder = 64 % 3;
 console.log("The remainder of 64 / 3 is " + remainder);
+
+/**
+ * ********************String Operator(s)***********************
+ */
+//Really, the only string operator is the concatination operator
+//It has the same symbol as Addition.
+//We have used it several times already
+
+let word1 = "Holly";
+let word2 = "Jolly";
+let word3 = "Christmas"
+let phrase = word1 + " " + word2 + " " + word3
+console.log(phrase);
